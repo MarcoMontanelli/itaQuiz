@@ -24,7 +24,7 @@ const questions = [
       {
         question: "Who is this gentleman?",
         options: ["A femminist activist","Filippo Turati","A communist","A murderer who belongs in jail"],
-        correctAnswer: "He accidentally fell into a lifeboat",
+        correctAnswer: "A femminist activist",
         media: "../src/assets/turetta.jpg",
         mediaType: "image",
       },
@@ -52,7 +52,7 @@ const questions = [
       {
         question: "What should you do?",
         options: ["Quando c'era lui i treni arrivavano in orario","You stand on the table and you do the famous handpose", "You scold him for making such distasteful jokes"],
-        correctAnswer: "You scold him for making such distasteful jokes",
+        correctAnswer: "You stand on the table and you do the famous handpose",
         media: "Your grandpa invites you to dinner and he starts yapping about the events from 1922 to 1943.",
         mediaType: "text",
       },
