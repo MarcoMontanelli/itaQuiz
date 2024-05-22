@@ -39,6 +39,7 @@ const Homepage = () => {
           transition={{ duration: 0.5, delay: 0.5 }}
           whileHover={{ scale: 1.1 }}
           className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full"
+          onClick={() =>window.location.href = `/quiz.html`}
         >
           Start Quiz
         </motion.button>

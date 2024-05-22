@@ -58,7 +58,7 @@ const questions = [
       },
       
     {
-        question: "Chi è?",
+        question: "Who is he?",
         options: ["A random bald italian man", "One of the greatest journalists", "The best", "idk"],
         correctAnswer: "One of the greatest journalists",
         media: "../src/assets/benito.jpeg",
